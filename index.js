@@ -11,3 +11,5 @@ function lista_nome(name, index){
 const lista = nome.map(lista_nome)
 
 console.log(lista)
+
+//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
