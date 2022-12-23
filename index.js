@@ -5,6 +5,7 @@ const nome = [
     'Ciclano',
     'Commit branch A',
     'Pequena alteração Branch senha',
+    'Testando resivão publish',
 ]
 
 function lista_nome(name, index){
