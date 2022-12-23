@@ -3,7 +3,7 @@ const nome = [
     'Fulano',
     'Fulana',
     'Ciclano',
-    'Commit branch A'
+    'Commit branch A',
 ]
 
 function lista_nome(name, index){
