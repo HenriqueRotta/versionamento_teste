@@ -1,7 +1,8 @@
 const nome = [
     'Henrique',
     'Fulano',
-    'Fulana'
+    'Fulana',
+    'Ciclano'
 ]
 
 function lista_nome(name, index){
